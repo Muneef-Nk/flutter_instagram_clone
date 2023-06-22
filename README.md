@@ -1,16 +1,6 @@
 # instagram_clone
 
-A new Flutter project.
+Screen Shot
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Muneef-Nk/flutter_instagram_clone/assets/92105703/cba0ab15-cb9b-4dc7-8d86-4e975d22d160" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/flutter_instagram_clone/assets/92105703/f87f0a2d-0879-4a6a-92c9-341302dd14f6" width="200" height="400"/>
